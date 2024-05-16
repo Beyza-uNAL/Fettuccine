@@ -1,0 +1,16 @@
+{
+  "name": "makarna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass -o css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lightbox2": "^2.11.4",
+    "node-sass": "^9.0.0"
+  }
+}
